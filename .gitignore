@@ -1,7 +1,1 @@
-contacts_events_data/
-Example4Out.*
-output/
-.env
-.blame
-__pycache__/
-.pytest_cache/
+.venv/
